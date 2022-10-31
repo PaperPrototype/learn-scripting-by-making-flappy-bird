@@ -2,7 +2,7 @@ Are you a complete beginner? You probably SUCK at coding... well, so did I.
 
 In this guide I'm going to teach how to code by making a derailed flappy bird! Are you ready?!
 
-![]()
+![](https://youtu.be/frFR2vZFNc8)
 
 Here is the final code for drawing Mr. Fatty Bird (that's what I'm calling him from now on).
 
