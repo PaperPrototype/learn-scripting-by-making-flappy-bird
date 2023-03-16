@@ -1,6 +1,3 @@
-![video]()
-
-make a function to group together all the drawing functions into 1 function
 
 using mouseY and mouseX variables to decide where to put Mr. Fatty.
 
